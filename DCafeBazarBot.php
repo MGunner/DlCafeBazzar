@@ -4,9 +4,7 @@ ob_start();
 ─═ঊঈঊঈ═─╮
 DCafeBazarBot
 V 1.o
-Developer : mohammadhosseinheidari
-Bot ID : @DCafeBazarBot
-Dev ID : @NOBLEST
+
 ─═ঊঈঊঈ═─╯
 */
 define('API_KEY','توکن شما');
